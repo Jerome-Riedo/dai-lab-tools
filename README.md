@@ -64,6 +64,13 @@ Using this image, **you must read** the section "Working with containers" of the
 - remove the downloaded image.
 
 **Write down the commands you used for each of these steps.**
+- docker run heigvddai/chucknorris
+- docker run -d heigvddai/chucknorris
+- docker run -d -p 8080:80 heigvddai/chucknorris
+- docker exec -it 24 /bin/bash
+- docker ps
+- docker stop 24
+- docker container prune
 
 #### Port mapping
 
