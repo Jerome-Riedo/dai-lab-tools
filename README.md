@@ -71,6 +71,7 @@ Using this image, **you must read** the section "Working with containers" of the
 - docker ps
 - docker stop 24
 - docker container prune
+- docker rmi heigvddai/chucknorris
 
 #### Port mapping
 
