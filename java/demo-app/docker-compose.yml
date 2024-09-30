@@ -1,0 +1,4 @@
+services :
+
+    helloWorld:
+      image: dai/demo-app
